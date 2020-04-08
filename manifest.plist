@@ -11,31 +11,33 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://download.keyhot.net/RDFuturesApp8.ipa</string>
+					<string>http://download.keyhot.net/qb/Qianba.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://download.xiamenqihuo.com/image57.png</string>
+					<string>http://download.keyhot.net/qb/qb_57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://download.xiamenqihuo.com/image512.png</string>
+					<string>http://download.keyhot.net/qb/qb_512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.ruida.RDFutures</string>
+				<string>com.ruida.Qianba</string>
 				<key>bundle-version</key>
-				<string>1.0.6</string>
+				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
+				<key>platform-identifier</key>
+				<string>com.apple.platform.iphoneos</string>
 				<key>title</key>
-				<string>RDFuturesApp</string>
+				<string>Qianba</string>
 			</dict>
 		</dict>
 	</array>
